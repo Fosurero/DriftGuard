@@ -1,0 +1,7 @@
+# (Placeholder logo for DriftGuard)
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="58" stroke="#0052FF" stroke-width="4" fill="#F5F8FF"/>
+  <path d="M60 25 L90 60 L60 95 L30 60 Z" fill="#0052FF" stroke="#003399" stroke-width="2"/>
+  <circle cx="60" cy="60" r="18" fill="#fff" stroke="#003399" stroke-width="2"/>
+  <text x="60" y="66" text-anchor="middle" font-size="18" fill="#0052FF" font-family="Arial, sans-serif">DG</text>
+</svg>
