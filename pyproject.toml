@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "driftguard"
+version = "0.1.0"
+description = "Base-focused deterministic security scanner with onchain-attestable reports"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Safi Elhassanine" }
+]
+dependencies = []
+
+[project.scripts]
+driftguard = "driftguard.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

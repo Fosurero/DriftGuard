@@ -1,0 +1,3 @@
+[submodule "vendor/prspec"]
+	path = vendor/prspec
+	url = https://github.com/Fosurero/PRSpec
